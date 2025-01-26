@@ -17,7 +17,9 @@ The plotted graph for above swap:
 
 Files:
 ```curve.py``` - The main curve class which defines all the parameters and methods.
+
 ```graph.py``` - Used to plot the curve.
+
 ```tests.py``` - For swapping tokens.
 
 The "tests.py" file accepts two arguments (xOry, amount)
