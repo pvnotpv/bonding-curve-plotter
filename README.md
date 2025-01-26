@@ -9,9 +9,11 @@ A simple swap of 1522 token x for token y:
   <img src="https://github.com/pvnotpv/bonding-curve-plotter/blob/main/images/eqs.png?raw=true" width="700" />
 </p>
 
-The plotted graph for the swap:
-![curve1](https://github.com/user-attachments/assets/ad881cfd-82e4-4c56-b5bf-e4be9bb83526)
+The plotted graph for above swap:
 
+<p float="left">
+  <img src="https://github.com/pvnotpv/bonding-curve-plotter/blob/main/images/curve1.png?raw=true" width="800" />
+</p>
 
 Files:
 ```curve.py``` - The main curve class which defines all the parameters and methods.
