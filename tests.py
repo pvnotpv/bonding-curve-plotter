@@ -60,8 +60,8 @@ def swaps(y_in):
         tempPrice = curve.sqrtpC
         (x_new, y_new, price_next) = swap.swap(curve, 0, y_in)
         print(Fore.MAGENTA+"Price diff: ", tempPrice-(curve.sqrtpC**2))
-        print(Fore.MAGENTA+"Y in: ", y_new)
-        print(Fore.MAGENTA+"X out: ", x_new, "\n")
+        print(Fore.MAGENTA+"Y out: ", y_new)
+        print(Fore.MAGENTA+"X in: ", x_new, "\n")
 
 def main():
     printStats()
