@@ -5,7 +5,9 @@
 
 A simple swap of 1522 token x for token y:
 
-![eqs](https://github.com/user-attachments/assets/2c64e86b-c973-4625-acc0-cb5151530345)
+<p float="left">
+  <img src="https://github.com/pvnotpv/bonding-curve-plotter/blob/main/images/eqns.png?raw=true" width="250" />
+</p>
 
 The plotted graph for the swap:
 ![curve1](https://github.com/user-attachments/assets/ad881cfd-82e4-4c56-b5bf-e4be9bb83526)
