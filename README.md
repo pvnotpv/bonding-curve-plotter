@@ -3,7 +3,8 @@
 > Understanding Uniswap v3 is kind of hard compared to v1 and v2; there's like a lot of magical black box formulas that do "stuff." I kind of made this after trying to figure out how Uniswap v3 works under the hood after 
  reading the Uniswap v3 book and other resources. Note that if there are any issues or something is not mathematically correct, please issue a pull request; I'm still learning on the learning curve... so yk...
 
-A simple swap of token x for token y:
+A simple swap of 1522 token x for token y:
+
 ![eqs](https://github.com/user-attachments/assets/2c64e86b-c973-4625-acc0-cb5151530345)
 
 The plotted graph for the swap:
