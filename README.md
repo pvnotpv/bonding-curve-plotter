@@ -13,6 +13,8 @@ curve = curve.BondingCurve(50000, 50000, 1, 7, 0.5)
 
 As we can see that the above curve is not so capital efficient due to the far price limits...
 
+--- 
+
 A simple swap of 1522 token x for token y:
 
 <p float="left">
