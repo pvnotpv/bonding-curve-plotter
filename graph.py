@@ -87,7 +87,7 @@ plt.scatter(lowerPriceX, lowerPriceY, color='blue', label=f'LowerPrice: {data["p
 plt.legend()
 plt.xlabel("x reserves", fontsize=20, labelpad=25)
 plt.ylabel("y reserves", fontsize=20, labelpad=20)
-plt.savefig('custom_plot.png')  # Save the image
+plt.savefig('assets/custom_plot.png')  # Save the image
 
 
 img = Image.open('assets/custom_plot.png')
@@ -114,9 +114,4 @@ I1.text((780, 85), f'Y (real+virtual): {data["y"]:.2f}', fill=(0, 0, 0), font=fo
 
 
 img.show() 
-img.save("custom_plot.png")
-
-
-
-
-
+img.save("assets/custom_plot.png")
