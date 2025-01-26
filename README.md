@@ -16,6 +16,7 @@ The plotted graph for above swap:
 </p>
 
 Files:
+
 ```curve.py``` - The main curve class which defines all the parameters and methods.
 
 ```graph.py``` - Used to plot the curve.
