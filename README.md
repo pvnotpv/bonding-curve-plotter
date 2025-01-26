@@ -43,9 +43,9 @@ Files:
 
 The "tests.py" file accepts two arguments (xOry, amount):
 
-xOry = 1, when swapping token y for token x
+xOry = 0, when swapping token y for token x
 
-xOry = 0, when swapping token x for token y
+xOry = 1, when swapping token x for token y
 
 ---
 - tests.py dumps the current state of the curve to a json file.
