@@ -6,7 +6,7 @@
 A simple swap of 1522 token x for token y:
 
 <p float="left">
-  <img src="https://github.com/pvnotpv/bonding-curve-plotter/blob/main/images/eqs.png?raw=true" width="750" />
+  <img src="https://github.com/pvnotpv/bonding-curve-plotter/blob/main/images/eqs.png?raw=true" width="700" />
 </p>
 
 The plotted graph for the swap:
