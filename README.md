@@ -54,4 +54,4 @@ xOry = 0, when swapping token x for token y
 
 - The graph.py accepts a scale variable that is used to scale the graph... Since there can be a lot of scenarios... I really have no idea how to do it programmatically, but this way gives you a lot of control of the plotted graph; you can make it look beautiful, tbh.
 
-Use cases and different scenarios explained in my blog post: 
+Use cases and different scenarios explained in my blog post, also the scaling part(btw you may not get the curve plotted, if the scale variable is incorrent): 
