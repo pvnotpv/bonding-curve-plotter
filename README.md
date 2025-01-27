@@ -56,4 +56,4 @@ xOry = 0, when swapping token x for token y
 
 Use cases and different scenarios explained in my blog post, also the scaling part(btw you may not get the curve plotted, if the scale variable is incorrent): https://pvnotpv.github.io/posts/bondingcurve-plotter/
 
-## Warning: The graph script isn't optimised so it will consume huge amount of ram to plot the graph if the liquidity is too high!
+## Warning: The graph script isn't optimised for cases where the liquidity is too high! It will consume a huge amount of RAM to plot the graph!
